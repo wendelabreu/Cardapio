@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cardapio</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Pratos">
+        <item> Carne</item>
+        <item> Peixe</item>
+        <item> Frango</item>
+        <item> Massa</item>
+        <item> Sushi</item>
+    </string-array>
+</resources>
